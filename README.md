@@ -1,31 +1,3 @@
-# Maniteja-Portfolio
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Maniteja Portfolio</title>
-</head>
-<body>
-    <h1>Maniteja Nari</h1>
+# Maniteja Portfolio
 
-    <h2>About Me</h2>
-    <p>Aspiring Software Developer passionate about coding and problem solving.</p>
-
-    <h2>Skills</h2>
-    <ul>
-        <li>Java</li>
-        <li>Python</li>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Git & GitHub</li>
-    </ul>
-
-    <h2>Projects</h2>
-    <ul>
-        <li>Green Cart Logistics</li>
-        <li>MountBlue Coding Challenge</li>
-    </ul>
-
-    <h2>Contact</h2>
-    <p>Email: your-email@example.com</p>
-</body>
-</html>
+My personal portfolio website built using HTML and hosted on GitHub Pages.
